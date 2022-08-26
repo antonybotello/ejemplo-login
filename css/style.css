@@ -1,0 +1,11 @@
+.fondo{
+    background-image: url('../img/fondo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.form-signin{
+
+    max-width: 300px;
+
+}
